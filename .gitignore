@@ -3,3 +3,4 @@ logfile.log
 uncaughtExceptions.log
 coverage/
 validCredentials.txt
+.env
